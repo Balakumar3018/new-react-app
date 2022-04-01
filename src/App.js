@@ -23,15 +23,7 @@ function App() {
         <p key={title}>titile: {title}</p>
         <p key={price}>price : {price}</p>
         <p key={categoryName}>Category: {categoryName}</p>
-        <li key={author}>author :{author}</li>
-        <p key={title}>titile: {title}</p>
-        <p key={price}>price : {price}</p>
-        <p key={categoryName}>Category: {categoryName}</p>
-        <li key={author}>author :{author}</li>
-        <p key={title}>titile: {title}</p>
-        <p key={price}>price : {price}</p>
-        <p key={categoryName}>Category: {categoryName}</p>
-        </div>
+    
       ))}
     </div>
     </div>
